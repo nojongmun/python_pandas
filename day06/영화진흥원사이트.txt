@@ -1,0 +1,6 @@
+영화진흥원 ; http://www.kobis.or.kr/kobisopenapi
+id : nojm73,    pw:nojm73!@#
+
+발급 받은 키 : 62aa093993a32d3280249fc8417a88cb
+
+http://www.kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/searchDailyBoxOfficeList.json?key=62aa093993a32d3280249fc8417a88cb&targetDt=20200320
